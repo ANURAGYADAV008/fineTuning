@@ -1,2 +1,6 @@
 .venv
 uv.lock
+gpt2
+__pycache__
+review_classifier.pth
+uv.lock
